@@ -1,0 +1,13 @@
+{
+    "filament_settings_id": [
+        "Creality Fast PLA @BBL A1"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1",
+    "is_custom_defined": "0",
+    "name": "Creality Fast PLA @BBL A1",
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "version": "1.10.0.27"
+}

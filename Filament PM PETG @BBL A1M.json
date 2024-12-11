@@ -1,0 +1,20 @@
+{
+  "compatible_printers": [
+    "Bambu Lab A1 0.4 nozzle",
+    "Bambu Lab A1 0.6 nozzle",
+    "Bambu Lab A1 0.8 nozzle"
+  ],
+  "filament_cost": ["26.4"],
+  "filament_flow_ratio": ["1"],
+  "filament_max_volumetric_speed": ["16"],
+  "filament_settings_id": ["Filament PM PETG"],
+  "filament_vendor": ["Filament PM"],
+  "from": "User",
+  "inherits": "Generic PETG @BBL A1M",
+  "name": "Filament PM PETG",
+  "nozzle_temperature": ["245"],
+  "nozzle_temperature_initial_layer": ["240"],
+  "slow_down_layer_time": ["8"],
+  "temperature_vitrification": ["80"],
+  "version": "1.5.0.19"
+}

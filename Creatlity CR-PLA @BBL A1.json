@@ -1,0 +1,19 @@
+{
+    "filament_settings_id": [
+        "Creatlity CR-PLA @BBL A1"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1",
+    "is_custom_defined": "0",
+    "name": "Creatlity CR-PLA @BBL A1",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "nozzle_temperature_range_low": [
+        "195"
+    ],
+    "version": "1.10.0.27"
+}

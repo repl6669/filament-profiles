@@ -1,0 +1,81 @@
+{
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "cool_plate_temp": [
+        "80"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "80"
+    ],
+    "enable_overhang_bridge_fan": [
+        "0"
+    ],
+    "eng_plate_temp": [
+        "80"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "80"
+    ],
+    "fan_cooling_layer_time": [
+        "15"
+    ],
+    "fan_max_speed": [
+        "20"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_flow_ratio": [
+        "0.988"
+    ],
+    "filament_max_volumetric_speed": [
+        "6"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PETG Glass No Fan @BBL A1M 0.4 Nozzle"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Bambu PETG Basic @BBL A1M 0.4 nozzle",
+    "name": "PETG Glass No Fan @BBL A1M 0.4 Nozzle",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "nozzle_temperature_range_high": [
+        "290"
+    ],
+    "overhang_fan_speed": [
+        "10"
+    ],
+    "overhang_fan_threshold": [
+        "0%"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "5"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.9.2.58"
+}

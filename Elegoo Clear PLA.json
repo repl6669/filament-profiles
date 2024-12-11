@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#D2F0F2"
+    ],
+    "filament_density": [
+        "1.2"
+    ],
+    "filament_settings_id": [
+        "Elegoo Clear PLA"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1",
+    "is_custom_defined": "0",
+    "name": "Elegoo Clear PLA",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "version": "1.10.0.27"
+}
